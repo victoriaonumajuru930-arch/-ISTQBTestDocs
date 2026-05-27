@@ -1,1 +1,1 @@
-# -ISTQBTestDocs
+# ISTQBTestDocs
